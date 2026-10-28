@@ -1,6 +1,6 @@
 # Advice and Guidelines for Students
 
-Oct 28, 2026 · @Taimoor
+Oct 28, 2026
 
 This is a companion to the Student Expectations document. Those expectations are formal and get signed off; this document covers everything around them: looking after yourself, feeling part of the group, knowing where to turn when things get hard, and the everyday habits that make research sustainable.
 
