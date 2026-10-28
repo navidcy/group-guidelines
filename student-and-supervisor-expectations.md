@@ -1,4 +1,4 @@
-# Student Expectations
+# Student and Supervisor Expectations
 
 _Last updated: 28 October 2026_
 
