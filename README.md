@@ -1,6 +1,6 @@
 # Student Expectations
 
-Oct 28, 2026
+_Last updated: 28 October 2026_
 
 This document sets out what every research student in the group can expect from their supervisors, and what we expect in return.
 
@@ -10,32 +10,32 @@ The guidelines are meant to be a shared starting point, not a contract. Part-tim
 
 This is a living document that resides at [github.com/navidcy/group-guidelines](https://github.com/navidcy/group-guidelines). If you have suggestions, feel free to tell us or open a pull request to edit it!
 
-## **Outline**
+## Outline
 
-1. [What we commit to as supervisors](#m3evb8gsj0a.529)
-2. [Student expectations](#mfmareadkbm.1739)
-   1. [All students](#mfmareadkbm.1763)
-   2. [Masters/Honours students](#mfmareadkbm.1780)
-   3. [PhD students](#mfmareadkbm.1968)
-3. [Sources](#m3evb8gsj0a.10543)
+1. [What we commit to as supervisors](#1-what-we-commit-to-as-supervisors)
+2. [Student expectations](#2-student-expectations)
+   1. [All students](#21-all-students)
+   2. [Masters/Honours students](#22-mastershonours-students)
+   3. [PhD students](#23-phd-students)
+3. [Sources](#3-sources)
 
-## **1. What we commit to as supervisors**
+## 1. What we commit to as supervisors
 
 Supervision is a two-way commitment. Whatever your program, this is what we, as supervisors, commit to provide.
 
 - **Regular, protected meeting time.** A standing meeting at an agreed frequency, which we keep and reschedule rather than cancel. Outside meetings we aim to reply to messages within 2 working days.
 - **A well-scoped project.** A project designed to be achievable in the time your program allows, with the background reading, data and starting code you need to begin.
-- **Clear, agreed goals.** Deliverables and deadlines set together at the start of each semester (Masters/Honours) or each year (PhD), along with a high-level workplan for achieving them.&#32;
+- **Clear, agreed goals.** Deliverables and deadlines set together at the start of each semester (Masters/Honours) or each year (PhD), along with a high-level workplan for achieving them.
 - **Timely, constructive feedback.** Comments on drafts and figures within a turnaround we agree on when you send them. Feedback will be direct and specific, aimed at the work, never the person.
 - **Your results, not your code.** We will not review your code (unless your project has a specific model development focus). But we will review the results you obtain with it. It is your responsibility to ensure you are confident the code is not silently producing bugs or errors. That said, if code bugs are evident from results or discussions, we will suggest tests to help you track them down.
 - **Honest assessment of progress.** If we have concerns, we raise them in a tiered way: first verbally in a meeting, then in writing if the concern persists, and only then at a formal project review — so nothing at a review ever comes as a surprise.
 - **Resources and access.** Help getting set up on computing resources, software and data, and introductions to collaborators and others in the field.
-- **Advocacy and development.**** **Support for conferences, workshops, summer schools, funding applications, references when you need them, and advice on your next steps, inside or outside academia.
+- **Advocacy and development.** Support for conferences, workshops, summer schools, funding applications, references when you need them, and advice on your next steps, inside or outside academia.
 - **A respectful, inclusive group.** A group where everyone can ask questions without embarrassment, and where problems are dealt with fairly and confidentially.
 
-## **2. Student expectations**
+## 2. Student expectations
 
-### **2.1 All students**
+### 2.1 All students
 
 These apply to everyone in the group, whatever their program.
 
@@ -47,7 +47,7 @@ These apply to everyone in the group, whatever their program.
 - **Be part of the group.** Attend group meetings, present your work when it's your turn, and help others where you can. Where it suits your project, also present at national and international conferences or workshops; we'll point you to relevant ones and help find funding.
 - **Keep your work reproducible.** Your code and data should be in a state that can be published, so that the results in your thesis, report or papers can be regenerated. Code used for a paper's simulations or analysis is released in a public repository and, wherever possible, so is the data.
 
-### **2.2 Masters/Honours students**
+### 2.2 Masters/Honours students
 
 **A Masters or Honours research project is a subject like any other**: it carries credit points, deadlines and an assessment of progress. These expectations are designed so that, by the end of each semester, both you and we can point to clear evidence of steady work.
 
@@ -82,7 +82,7 @@ If we have concerns, you will have had ample verbal and written warnings well be
 
 Over semester breaks we **do not** hold regular meetings. There is no expectation that you do any project work during that period.
 
-### **2.3 PhD students**
+### 2.3 PhD students
 
 A PhD is a three-to-four-year full-time research degree (pro rata if part-time), and its goal is for you to finish as an independent researcher. Our expectations shift over the candidature: we steer closely at the start, and by the final year you set the direction.
 
@@ -90,8 +90,8 @@ For everything about your candidature, including milestones, leave and support, 
 
 #### 2.3.1 Time and leave
 
-- Full-time candidature is equivalent to a full-time job. Keep regular, sustainable hours; we **don't expect and** **S****TRO****NGLY ****d****isc****ou****rage** evenings and weekends.
-- **Y****o****u ****MUST** **take** **your annual leave.** Rest is part of doing good research. Agree dates with us in advance; see [Taking leave](https://gradresearch.unimelb.edu.au/being-a-candidate/taking-leave) for your entitlements.
+- Full-time candidature is equivalent to a full-time job. Keep regular, sustainable hours; we **don't expect and STRONGLY discourage** evenings and weekends.
+- **You MUST take your annual leave.** Rest is part of doing good research. Agree dates with us in advance; see [Taking leave](https://gradresearch.unimelb.edu.au/being-a-candidate/taking-leave) for your entitlements.
 
 #### 2.3.2 Milestones and the advisory committee
 
@@ -120,7 +120,7 @@ Your progress is reviewed by your advisory committee at pre-confirmation (around
 - We agree on a thesis writing plan about 12 months before your thesis due date.
 - Send us a complete thesis draft at least three months before submission, so there's time for full feedback and revision.
 
-## **3****. S****ou****rc****es**
+## 3. Sources
 
 - [Special consideration: eligibility and supporting documentation](https://students.unimelb.edu.au/course-admin/assessment-adjustments/eligibility-and-supporting-documentation)
 - [Graduate Research Hub](https://gradresearch.unimelb.edu.au)
