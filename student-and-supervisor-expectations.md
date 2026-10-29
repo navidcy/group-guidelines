@@ -1,12 +1,10 @@
 # Student and Supervisor Expectations
 
-_Last updated: 29 October 2026_
+_Last updated: 30 October 2026_
 
 This document sets out what every research student in the group can expect from their supervisors, and what we expect in return.
 
-A core set of expectations applies equally to all students: Masters, Honours, and PhD students; program-specific expectations are set out in the Masters and Honours and PhD sections below. We go through them together at the start of every project.
-
-The guidelines are meant to be a shared starting point, not a contract. Part-time study, co-supervision, leave or other circumstances are agreed individually on top of them. If something here doesn't fit your situation, tell us and we'll adjust it.
+A core set of expectations applies to all students (Masters, Honours and PhD), with program-specific sections below. We go through them together at the start of every project. They are a shared starting point, not a contract: part-time study, co-supervision, leave and other circumstances are agreed individually, and if something doesn't fit your situation, tell us and we'll adjust it.
 
 This is a living document that resides at [github.com/navidcy/group-guidelines](https://github.com/navidcy/group-guidelines). If you have suggestions, feel free to tell us or open a pull request to edit it!
 
@@ -72,17 +70,17 @@ Each semester, Masters/Honours supervisors and students complete a progress revi
 - the agreed deliverables, on time or with an extension agreed in advance;
 - regular concrete work at our meetings.
 
-If we have concerns, you will have had ample verbal and written warnings well before the review, so the outcome is never a surprise. Tell us early about anything getting in the way, so we can act on it rather than just record it.
-
 #### 2.2.4 The final thesis or report
 
-- We agree on a writing timeline at the start of your final semester, with a full draft to us at least four weeks before submission so there's time for one complete round of feedback.
+We agree on a writing timeline at the start of your final semester, with a full draft to us at least four weeks before submission so there's time for one complete round of feedback.
 
-#### 2.2.5 Semester breaks
+#### 2.2.5 Semester breaks for various programs
 
-**Master of Science students.** Work continues between semesters; agree any recreational leave with us in advance. See the Faculty's [Master of Science research projects](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects) page.
+**[Master of Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-science-earth-sciences/):** Work continues between semesters; agree on any recreational leave with us in advance. See the Faculty's [Master of Science research projects](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects) page.
 
-**Honours students.** Honours runs on its own calendar, so most breaks within it are project time; agree any leave with us in advance. See the Handbook's [Honours course structure](https://handbook.unimelb.edu.au/2026/courses/bh-sci/course-structure) and your program's entry.
+**[Master of Climate Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-climate-science/):** There is no expectation that you work on the project during semester breaks.
+
+**[Honours](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/):** Honours runs on its own calendar, so most breaks within it are project time; agree any leave with us in advance. See the Handbook's [Honours course structure](https://handbook.unimelb.edu.au/2026/courses/bh-sci/course-structure) and your program's entry.
 
 ### 2.3 PhD students
 
@@ -92,8 +90,8 @@ For everything about your candidature, including milestones, leave and support, 
 
 #### 2.3.1 Time and leave
 
-- Full-time candidature is equivalent to a full-time job. Keep regular, sustainable hours; we **don't expect and STRONGLY discourage** evenings and weekends.
-- **You MUST take your annual leave.** Rest is part of doing good research. Agree dates with us in advance; see [Taking leave](https://gradresearch.unimelb.edu.au/being-a-candidate/taking-leave) for your entitlements.
+- Full-time candidature is equivalent to a full-time job. Keep regular, sustainable hours; we **don't expect and *strongly* discourage** evenings and weekends.
+- **You *must* take your annual leave.** Rest is part of doing good research. Agree dates with us in advance; see [Taking leave](https://gradresearch.unimelb.edu.au/being-a-candidate/taking-leave) for your entitlements.
 
 #### 2.3.2 Milestones and the advisory committee
 
@@ -114,7 +112,7 @@ Your progress is reviewed by your advisory committee at pre-confirmation (around
 - Read widely and keep up with the literature in your area, not only the papers we send you.
 - Opportunities to mentor Masters and Honours students, and to review code and drafts for others in the group, will come up; take them on only if you want to.
 - Tutoring and teaching are welcome, and opportunities within the School come up every semester; we agree on the hours you commit to ensure they don't crowd out your research.
-- Opportunities such as ship time, summer schools and part-time secondments or internships come up from time to time. Keep an eye out for them, and tell us if you're interested; we'll pass on anything relevant to your career.
+- Research cruise expeditions, summer schools, secondments and internships come up from time to time; tell us if you're interested and we'll pass on relevant ones.
 - From your second year, start thinking about your next step. We'll help, whether it's in academia or beyond.
 
 #### 2.3.5 Your final year
