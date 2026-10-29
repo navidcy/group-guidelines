@@ -121,7 +121,7 @@ Your progress is reviewed by your advisory committee at pre-confirmation (around
 
 ## 3. Beyond these expectations
 
-For everything around these expectations, such as looking after yourself, feeling part of the group, knowing where to turn when things get hard and everyday research habits, see the companion [Advice and Guidelines for Students](student-advice-guidelines.md).
+Separately, we've collected some advice in [Advice and Guidelines for Students](student-advice-guidelines.md): suggestions on looking after yourself, feeling part of the group, knowing where to turn when things get hard, and everyday research habits. None of it is part of these expectations; take what's useful to you and leave the rest.
 
 ## 4. Sources
 
