@@ -1,21 +1,24 @@
 # Advice and Guidelines for Students
 
-Oct 28, 2026
+_Last updated: 29 October 2026_
 
-This is a companion to the Student Expectations document. Those expectations are formal and get signed off; this document covers everything around them: looking after yourself, feeling part of the group, knowing where to turn when things get hard, and the everyday habits that make research sustainable.
+This is a companion to the [Student and Supervisor Expectations](student-and-supervisor-expectations.md) document. Those expectations are formal and get signed off; this document covers everything around them: looking after yourself, feeling part of the group, knowing where to turn when things get hard, and the everyday habits that make research sustainable.
+
+This is a living document that resides at [github.com/navidcy/group-guidelines](https://github.com/navidcy/group-guidelines). If you have suggestions, feel free to tell us or open a pull request to edit it!
 
 ## Outline
 
-1. [Wellbeing and belonging](#mcwds8j7865.2751)
-   1. [Life beyond academia](#mcwds8j7865.4928)
-   2. [You're not alone](#mcwds8j7865.4953)
-   3. [Inclusion and belonging](#mcwds8j7865.4974)
-   4. [When things aren't going well](#mcwds8j7865.5995)
-2. [Good practice](#mcwds8j7865.2644)
-   1. [Good habits](#mcwds8j7865.2661)
-   2. [What a good meeting looks like](#mcwds8j7865.2677)
-   3. [Staying in touch between meetings](#mcwds8j7865.2712)
-3. [Sources](#mcwds8j7865.7994)
+1. [Wellbeing and belonging](#1-wellbeing-and-belonging)
+   1. [Life beyond academia](#11-life-beyond-academia)
+   2. [You're not alone](#12-youre-not-alone)
+   3. [Inclusion and belonging](#13-inclusion-and-belonging)
+   4. [When things aren't going well](#14-when-things-arent-going-well)
+2. [Good practice](#2-good-practice)
+   1. [Good habits](#21-good-habits)
+   2. [What a good meeting looks like](#22-what-a-good-meeting-looks-like)
+   3. [Staying in touch between meetings](#23-staying-in-touch-between-meetings)
+   4. [Giving and receiving feedback](#24-giving-and-receiving-feedback)
+3. [Sources](#3-sources)
 
 ## 1. Wellbeing and belonging
 
@@ -23,7 +26,7 @@ Your wellbeing comes first. A research degree is demanding, and doing it well de
 
 ### 1.1 Life beyond academia
 
-A pervasive problem in academia is tying one's self-identity and purpose to work and to "being an academic". Given the narrowing scope of opportunities in the field and ever-increasing demands on academic work, this is a recipe for poor mental health. In a study of 3,659 PhD students, about one in three were at risk of a common psychiatric disorder, and job demands, balancing work and family, and career prospects outside academia were among the factors linked to it ([Levecque et al., 2017](https://doi.org/10.1016/j.respol.2017.02.008)). As a result, we encourage open discussion of your life outside academia and your opportunities beyond it. We also encourage you to make non-academic friends; in our experience, that helps put work hurdles in perspective.
+A pervasive problem in academia is tying one's self-identity and purpose to work and to "being an academic". Given the narrowing scope of opportunities in the field and ever-increasing demands on academic work, this is a recipe for poor mental health. One study of PhD students found that about one in three were at risk of a common psychiatric disorder, and job demands, balancing work and family, and career prospects outside academia were among the factors linked to it ([Levecque et al., 2017](https://doi.org/10.1016/j.respol.2017.02.008)). As a result, we encourage open discussion of your life outside academia and your opportunities beyond it. We also encourage you to make non-academic friends; in our experience, that helps put work hurdles in perspective.
 
 Rest is part of the work. We don't expect you to work evenings or weekends, and messages from us outside working hours never need a reply then. Take your annual leave, switch off properly when you do, and don't feel you need to justify time away. Steady weeks get more done than long nights.
 
@@ -75,6 +78,20 @@ None of these are formal expectations, but we strongly recommend them, especiall
 Between meetings, get in touch however suits the occasion: Slack, email, a Zoom call, or a chat in person. If you're stuck, don't wait for the next meeting. We don't expect replies outside working hours, and if you haven't heard back, a nudge is always welcome.
 
 The group's Slack workspace is **NumericalEarth**: [join with this invitation link](https://join.slack.com/t/numericalearth/shared_invite/zt-4envhdrqs-N6aa6HxGBJ~4i5Gz99Kzzw).
+
+### 2.4 Giving and receiving feedback
+
+Expect a lot of feedback, especially on your writing. Drafts will come back with many comments and suggested edits: that is normal, and it is how we show you how to develop as a researcher. A heavily marked-up draft doesn't mean you've failed; treat it as a learning opportunity.
+
+How that feedback reaches you is up to you, and we'd like to talk about it early on. Before that conversation, think about:
+
+- **Format.** Do you take in feedback best written, in person, or as a voice recording? Would a quick chat about the overview help before you get detailed written comments?
+- **Style.** Do you prefer feedback direct and to the point, or with more context around it?
+- **What helps.** Is there anything that makes feedback easier for you to hear and act on?
+
+There is no right answer, and we won't assume you need to change how you take feedback. Every supervisor–student relationship looks different because every student has different learning needs.
+
+Communication goes both ways. Think about how you like to communicate and how you give feedback to others in the group, and tell us what is and isn't working in how we supervise you. You can revisit any of this at any time.
 
 ## 3. Sources
 
