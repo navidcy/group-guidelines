@@ -1,6 +1,6 @@
 # Student and Supervisor Expectations
 
-_Last updated: 28 October 2026_
+_Last updated: 29 October 2026_
 
 This document sets out what every research student in the group can expect from their supervisors, and what we expect in return.
 
@@ -26,7 +26,7 @@ Supervision is a two-way commitment. Whatever your program, this is what we, as 
 - **Regular, protected meeting time.** A standing meeting at an agreed frequency, which we keep and reschedule rather than cancel. Outside meetings we aim to reply to messages within 2 working days.
 - **A well-scoped project.** A project designed to be achievable in the time your program allows, with the background reading, data and starting code you need to begin.
 - **Clear, agreed goals.** Deliverables and deadlines set together at the start of each semester (Masters/Honours) or each year (PhD), along with a high-level workplan for achieving them.
-- **Timely, constructive feedback.** Comments on drafts and figures within a turnaround we agree on when you send them. Feedback will be direct and specific, aimed at the work, never the person.
+- **Timely, constructive feedback.** Comments on drafts and figures within a turnaround we agree on when you send them. Feedback will be specific and aimed at the work, never the person. Early on, we'll agree on how you prefer to receive it (see section 2.4 of [Advice and Guidelines for Students](student-advice-guidelines.md#24-giving-and-receiving-feedback)).
 - **Your results, not your code.** We will not review your code (unless your project has a specific model development focus). But we will review the results you obtain with it. It is your responsibility to ensure you are confident the code is not silently producing bugs or errors. That said, if code bugs are evident from results or discussions, we will suggest tests to help you track them down.
 - **Honest assessment of progress.** If we have concerns, we raise them in a tiered way: first verbally in a meeting, then in writing if the concern persists, and only then at a formal project review — so nothing at a review ever comes as a surprise.
 - **Resources and access.** Help getting set up on computing resources, software and data, and introductions to collaborators and others in the field.
@@ -65,7 +65,7 @@ If you are struggling with the workload, raise it with us **before** the [census
 
 If an agreed deadline needs to move, flag it early. Anything covered by special consideration is fine.
 
-#### 2.2.4 End-of-semester progress review
+#### 2.2.3 End-of-semester progress review
 
 Each semester, Masters/Honours supervisors and students complete a progress review that asks one question: **are you making satisfactory progress?** We expect to answer "yes" if, by the end of semester, we have seen:
 
@@ -74,13 +74,15 @@ Each semester, Masters/Honours supervisors and students complete a progress revi
 
 If we have concerns, you will have had ample verbal and written warnings well before the review, so the outcome is never a surprise. Tell us early about anything getting in the way, so we can act on it rather than just record it.
 
-#### 2.2.5 The final thesis or report
+#### 2.2.4 The final thesis or report
 
 - We agree on a writing timeline at the start of your final semester, with a full draft to us at least four weeks before submission so there's time for one complete round of feedback.
 
-#### 2.2.3 Semester breaks
+#### 2.2.5 Semester breaks
 
-Over semester breaks we **do not** hold regular meetings. There is no expectation that you do any project work during that period.
+**Master of Science students.** Work continues between semesters; agree any recreational leave with us in advance. See the Faculty's [Master of Science research projects](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects) page.
+
+**Honours students.** Honours runs on its own calendar, so most breaks within it are project time; agree any leave with us in advance. See the Handbook's [Honours course structure](https://handbook.unimelb.edu.au/2026/courses/bh-sci/course-structure) and your program's entry.
 
 ### 2.3 PhD students
 
@@ -123,6 +125,8 @@ Your progress is reviewed by your advisory committee at pre-confirmation (around
 ## 3. Sources
 
 - [Special consideration: eligibility and supporting documentation](https://students.unimelb.edu.au/course-admin/assessment-adjustments/eligibility-and-supporting-documentation)
+- [Faculty of Science: Master of Science research projects](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects)
+- [Handbook: Bachelor of Science (Degree with Honours) course structure](https://handbook.unimelb.edu.au/2026/courses/bh-sci/course-structure)
 - [Graduate Research Hub](https://gradresearch.unimelb.edu.au)
 - [Faculty of Science: Graduate research](https://science.unimelb.edu.au/students/graduate-research) (confirmation, progress reviews, advisory committee and School Graduate Research Coordinators)
 - [Graduate Research Hub: Taking leave](https://gradresearch.unimelb.edu.au/being-a-candidate/taking-leave)
