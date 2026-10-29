@@ -2,7 +2,7 @@
 
 _Last updated: 30 October 2026_
 
-This is a companion to the [Student and Supervisor Expectations](student-and-supervisor-expectations.md) document. Those expectations are formal and get signed off; this document covers everything around them: looking after yourself, feeling part of the group, knowing where to turn when things get hard, and the everyday habits that make research sustainable.
+This is a companion to the [Student and Supervisor Expectations](student-and-supervisor-expectations.md). Those expectations are formal and get signed off; here we cover everything around them: looking after yourself, feeling part of the group, knowing where to turn when things get hard, and suggestions for the everyday habits that make research sustainable.
 
 This is a living document that resides at [github.com/navidcy/group-guidelines](https://github.com/navidcy/group-guidelines). If you have suggestions, feel free to tell us or open a pull request to edit it!
 

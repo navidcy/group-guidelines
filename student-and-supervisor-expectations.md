@@ -2,7 +2,7 @@
 
 _Last updated: 30 October 2026_
 
-This document sets out what every research student in the group can expect from their supervisors, and what we expect in return.
+Here, we set out what every research student in the group can expect from their supervisors, and what we expect in return.
 
 A core set of expectations applies to all students (Masters, Honours and PhD), with program-specific sections below. We go through them together at the start of every project. They are a shared starting point, not a contract: part-time study, co-supervision, leave and other circumstances are agreed individually, and if something doesn't fit your situation, tell us and we'll adjust it.
 
