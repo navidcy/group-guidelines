@@ -1,6 +1,6 @@
 # Advice and Guidelines for Students
 
-_Last updated: 29 October 2026_
+_Last updated: 30 October 2026_
 
 This is a companion to the [Student and Supervisor Expectations](student-and-supervisor-expectations.md) document. Those expectations are formal and get signed off; this document covers everything around them: looking after yourself, feeling part of the group, knowing where to turn when things get hard, and the everyday habits that make research sustainable.
 
@@ -62,10 +62,7 @@ Looking after yourself is the foundation; good habits build on it. Steady, well-
 
 ### 2.1 Good habits
 
-None of these are formal expectations, but we strongly recommend them, especially with write-up in mind.
-
-- **Write as you go.** Keep running notes and draft sections from the start; the final thesis or report is assembled, not written from scratch at the end.
-- **Draft as you go.** Figures, methods and results sections can be drafted as soon as the work behind them is done, which saves a crunch at the end.
+**Write as you go.** It isn't a formal expectation, but we strongly recommend it, especially with write-up in mind. Keep running notes, and draft figures, methods and results as soon as the work behind them is done: the final thesis or report is then assembled, not written from scratch at the end. Share those drafts with us as you write them, and you'll get feedback as you go too, rather than all at once at the end.
 
 ### 2.2 What a good meeting looks like
 
@@ -81,7 +78,7 @@ The group's Slack workspace is **NumericalEarth**: [join with this invitation li
 
 ### 2.4 Giving and receiving feedback
 
-Expect a lot of feedback, especially on your writing. Drafts will come back with many comments and suggested edits: that is normal, and it is how we show you how to develop as a researcher. A heavily marked-up draft doesn't mean you've failed; treat it as a learning opportunity.
+Expect a lot of feedback, especially on your writing. Drafts will come back with many comments and suggested edits; that's normal, and it's how we help you develop as a researcher. A heavily marked-up draft doesn't mean you've failed; treat it as a learning opportunity.
 
 How that feedback reaches you is up to you, and we'd like to talk about it early on. Before that conversation, think about:
 
@@ -89,7 +86,7 @@ How that feedback reaches you is up to you, and we'd like to talk about it early
 - **Style.** Do you prefer feedback direct and to the point, or with more context around it?
 - **What helps.** Is there anything that makes feedback easier for you to hear and act on?
 
-There is no right answer, and we won't assume you need to change how you take feedback. Every supervisor–student relationship looks different because every student has different learning needs.
+There's no right answer, and we won't assume you need to change how you take feedback: every student learns differently, so every supervisor–student relationship looks different.
 
 Communication goes both ways. Think about how you like to communicate and how you give feedback to others in the group, and tell us what is and isn't working in how we supervise you. You can revisit any of this at any time.
 
