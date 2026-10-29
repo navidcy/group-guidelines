@@ -34,7 +34,7 @@ Rest is part of the work. We don't expect you to work evenings or weekends, and 
 
 Research can feel lonely. While we aim to create a collaborative, dynamic research environment, academic work is at times solitary, and that can add pressure and mental load that becomes unsustainable. We have been through this and recognise it.
 
-Imposter syndrome is just as common. Seeing seemingly high-flying, overachieving academics around you is challenging, and you may want to project an aura of confidence, as if you know everything, to keep up. **Don't.** **No question is too dumb,** and it is never too late to ask fundamental questions. We will NEVER judge you for asking a question. We have all experienced imposter syndrome too (and still do to this day!).
+Imposter syndrome is just as common. Seeing seemingly high-flying, overachieving academics around you is challenging, and you may want to project an aura of confidence, as if you know everything, to keep up. **Don't.** **No question is too dumb,** and it is never too late to ask fundamental questions. We will *never* judge you for asking a question. We have all experienced imposter syndrome too (and still do to this day!).
 
 You don't have to rely on us alone, either. Get to know the other students in the group: share drafts, swap code tips, have lunch together. Students a year or two ahead of you are often the best guide to what's normal. Beyond the group, the [Graduate Student Association](https://gsa.unimelb.edu.au) runs events and programs for graduate students across the University.
 
