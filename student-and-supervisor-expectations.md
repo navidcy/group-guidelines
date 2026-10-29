@@ -15,7 +15,8 @@ This is a living document that resides at [github.com/navidcy/group-guidelines](
    1. [All students](#21-all-students)
    2. [Masters/Honours students](#22-mastershonours-students)
    3. [PhD students](#23-phd-students)
-3. [Sources](#3-sources)
+3. [Beyond these expectations](#3-beyond-these-expectations)
+4. [Sources](#4-sources)
 
 ## 1. What we commit to as supervisors
 
@@ -118,7 +119,11 @@ Your progress is reviewed by your advisory committee at pre-confirmation (around
 - We agree on a thesis writing plan about 12 months before your thesis due date.
 - Send us a complete thesis draft at least three months before submission, so there's time for full feedback and revision.
 
-## 3. Sources
+## 3. Beyond these expectations
+
+Separately, we've collected some advice in [Advice and Guidelines for Students](student-advice-guidelines.md): suggestions on looking after yourself, feeling part of the group, knowing where to turn when things get hard, and everyday research habits. None of it is part of these expectations; take what's useful to you and leave the rest.
+
+## 4. Sources
 
 - [Special consideration: eligibility and supporting documentation](https://students.unimelb.edu.au/course-admin/assessment-adjustments/eligibility-and-supporting-documentation)
 - [Faculty of Science: Master of Science research projects](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects)
