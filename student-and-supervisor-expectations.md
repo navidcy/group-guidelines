@@ -1,6 +1,6 @@
 # Student and Supervisor Expectations
 
-_Last updated: 30 October 2026_
+_Last updated: 31 October 2026_
 
 Here, we set out what every research student in the group can expect from their supervisors, and what we expect in return.
 
