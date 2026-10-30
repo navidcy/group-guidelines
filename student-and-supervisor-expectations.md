@@ -77,9 +77,9 @@ We agree on a writing timeline at the start of your final semester, with a full 
 
 #### 2.2.5 Semester breaks for various programs
 
-- **[Master of Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-science-earth-sciences/):** Work continues between semesters; agree on any recreational leave with us in advance. See the Faculty's [Master of Science research projects](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects) page.
+- **[Master of Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-science-earth-sciences/):** Work continues between semesters; let us know in advance when you're taking recreational leave. See the Faculty's [Master of Science research projects](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects) page.
 - **[Master of Climate Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-climate-science/):** There is no expectation that you work on the project during semester breaks.
-- **[Honours](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/):** Honours runs on its own calendar, so most breaks within it are project time; agree any leave with us in advance. See the Handbook's [Honours course structure](https://handbook.unimelb.edu.au/2026/courses/bh-sci/course-structure) and your program's entry.
+- **[Honours](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/):** Honours runs on its own calendar, so most breaks within it are project time; let us know in advance when you're taking leave. See the Handbook's [Honours course structure](https://handbook.unimelb.edu.au/2026/courses/bh-sci/course-structure) and your program's entry.
 
 ### 2.3 PhD students
 
@@ -90,7 +90,7 @@ For everything about your candidature, including milestones, leave and support, 
 #### 2.3.1 Time and leave
 
 - Full-time candidature is equivalent to a full-time job. Keep regular, sustainable hours; we **don't expect and *strongly* discourage** evenings and weekends.
-- **You *must* take your annual leave.** Rest is part of doing good research. Agree dates with us in advance; see [Taking leave](https://gradresearch.unimelb.edu.au/being-a-candidate/taking-leave) for your entitlements.
+- **You *must* take your annual leave.** Rest is part of doing good research. Let us know your dates in advance so we can plan around them; see [Taking leave](https://gradresearch.unimelb.edu.au/being-a-candidate/taking-leave) for your entitlements.
 
 #### 2.3.2 Milestones and the advisory committee
 
