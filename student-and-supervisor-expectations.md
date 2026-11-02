@@ -1,6 +1,6 @@
 # Student and Supervisor Expectations
 
-_Last updated: 31 October 2026_
+_Last updated: 2 November 2026_
 
 Here, we set out what every research student in the group can expect from their supervisors, and what we expect in return.
 
@@ -98,12 +98,13 @@ For everything about your candidature, including milestones, leave and support, 
 
 Your progress is reviewed by your advisory committee at pre-confirmation (around six months in), at confirmation (around the end of your first year), and at annual progress reviews after that. All review dates are set against your thesis due date. The [Graduate Research Hub](https://gradresearch.unimelb.edu.au) has the current requirements.
 
-- We agree what each milestone report will contain at least three months before it is due.
+- We agree what each milestone report will contain at least four weeks before it is due.
 - Send us a full draft of each milestone report at least two weeks before it goes to the committee.
 - Your committee includes an independent chair. You can speak to them confidentially about your supervision at any time.
 
 #### 2.3.3 Publishing and authorship
 
+- As a guide, your thesis should contain three publications or publication-like chapters.
 - We aim for the main results of your thesis to appear as first-author papers in peer-reviewed journals during your candidature.
 - You lead the writing, submission and response to reviewers on your first-author papers; we support each step. The first paper is always harder than the following ones; we know that and we'll help out more!
 - We discuss authorship and author order at the start of every paper, following the [Australian Code for the Responsible Conduct of Research](https://nhmrc.gov.au/research-policy/research-integrity/2018-australian-code-responsible-conduct-research).
