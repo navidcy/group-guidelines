@@ -34,7 +34,7 @@ Rest is part of the work. We don't expect you to work evenings or weekends, and 
 
 Research can feel lonely. While we aim to create a collaborative, dynamic research environment, academic work is at times solitary, and that can add pressure and mental load that becomes unsustainable. We have been through this and recognise it.
 
-Imposter syndrome is just as common. Seeing seemingly high-flying, overachieving academics around you is challenging, and you may want to project an aura of confidence, as if you know everything, to keep up. **Don't.** **No question is too dumb,** and it is never too late to ask fundamental questions. We will *never* judge you for asking a question. We have all experienced imposter syndrome too (and still do to this day!).
+Imposter syndrome is just as common. Seeing seemingly high-flying, overachieving academics around you is challenging, and you may want to project an aura of confidence, as if you know everything, to keep up. **Don't.** **No question is too dumb,** and it is never too late to ask fundamental questions. We will ***never*** judge you for asking a question. We have all experienced imposter syndrome too (and still do to this day!).
 
 You don't have to rely on us alone, either. Get to know the other students in the group: share drafts, swap code tips, have lunch together. Students a year or two ahead of you are often the best guide to what's normal. Beyond the group, the [Graduate Student Association](https://gsa.unimelb.edu.au) runs events and programs for graduate students across the University.
 
@@ -53,7 +53,7 @@ The group culture aims to be as kind and supportive as possible. Every project h
 - **Talk to us first.** Research setbacks, workload, health, or anything else affecting your work: bring it up at a meeting or ask for a separate conversation.
 - **If you'd rather not raise it with us,** Masters and Honours students can contact their Course Coordinator; PhD students can contact the chair of their advisory committee or their department's graduate research coordinator.
 - **Adjustments and extensions.** Masters and Honours students can apply for [special consideration](https://students.unimelb.edu.au/course-admin/assessment-adjustments/eligibility-and-supporting-documentation). PhD students can arrange leave, part-time study or extensions through the [Graduate Research Hub](https://gradresearch.unimelb.edu.au).
-- **Wellbeing.** The University's Counselling and Psychological Services (CAPS) is free and confidential for all students. Looking after yourself comes before any deadline.
+- **Wellbeing.** The University's [Counselling and Psychological Services (CAPS)](https://services.unimelb.edu.au/counsel) is free and confidential for all students. Looking after yourself comes before any deadline.
 - **Urgent help.** If you're in crisis or worried about your safety, at any hour: call 000 in an emergency, or the University's 24/7 [Mental Health Crisis Support Service](https://services.unimelb.edu.au/counsel/emergencies) on 1300 219 459 (or text 0480 079 188). Lifeline is on 13 11 14.
 
 ## 2. Good practice
@@ -62,7 +62,10 @@ Looking after yourself is the foundation; good habits build on it. Steady, well-
 
 ### 2.1 Good habits
 
-**Write as you go.** It isn't a formal expectation, but we strongly recommend it, especially with write-up in mind. Keep running notes, and draft figures, methods and results as soon as the work behind them is done: the final thesis or report is then assembled, not written from scratch at the end. Share those drafts with us as you write them, and you'll get feedback as you go too, rather than all at once at the end.
+None of these are formal expectations, but we strongly recommend them, especially with write-up in mind.
+
+- **Write as you go.** Keep running notes, and draft figures, methods and results as soon as the work behind them is done: the final thesis or report is then assembled, not written from scratch at the end. Share those drafts with us as you write them, and you'll get feedback as you go too, rather than all at once at the end.
+- **Use version control.** Keep your code, and ideally your writing, under version control (e.g. git, on GitHub) from day one. You get a history of what changed and when, a backup, and an easy way to share work with us and with collaborators.
 
 ### 2.2 What a good meeting looks like
 
@@ -94,6 +97,7 @@ Communication goes both ways. Think about how you like to communicate and how yo
 
 - Levecque, K., Anseel, F., De Beuckelaer, A., Van der Heyden, J. & Gisle, L. (2017). [Work organization and mental health problems in PhD students](https://doi.org/10.1016/j.respol.2017.02.008). *Research Policy*, 46(4), 868–879.
 - University of Melbourne: [Mental health crisis and emergency support](https://services.unimelb.edu.au/counsel/emergencies)
+- University of Melbourne: [Counselling and Psychological Services (CAPS)](https://services.unimelb.edu.au/counsel)
 - University of Melbourne: [Student Equity and Disability Support](https://services.unimelb.edu.au/student-equity)
 - University of Melbourne: [Special consideration: eligibility and supporting documentation](https://students.unimelb.edu.au/course-admin/assessment-adjustments/eligibility-and-supporting-documentation)
 - University of Melbourne: [Safer Community Program](https://safercommunity.unimelb.edu.au/)
