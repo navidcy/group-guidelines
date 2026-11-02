@@ -71,6 +71,8 @@ Each semester, Masters/Honours supervisors and students complete a progress revi
 - the agreed deliverables, on time or with an extension agreed in advance;
 - regular concrete work at our meetings.
 
+As detailed in Section 1, you can expect us to provide "honest assessment of progress", so that a "no" determination does not come as a surprise and has a trail of tiered warnings to support it.
+
 #### 2.2.4 The final thesis or report
 
 We agree on a writing timeline at the start of your final semester, with a full draft to us at least four weeks before submission so there's time for one complete round of feedback.
