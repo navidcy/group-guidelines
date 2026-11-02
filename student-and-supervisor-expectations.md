@@ -60,7 +60,7 @@ If you are struggling with the workload, raise it with us **before** the [census
 
 1. **Shortly before the census date:** at least one agreed deliverable falls due, followed by a meeting held regardless of how things are going. That way, if anything isn't working, both you and we pick it up early, while all the options are still open.
 2. **Before the end of semester:** at least one further deliverable falls due.
-3. **End of semester:** the progress review, where your program has one.
+3. **End of semester:** the progress review, if your program has one.
 
 If an agreed deadline needs to move, flag it early. Anything covered by special consideration is fine.
 
