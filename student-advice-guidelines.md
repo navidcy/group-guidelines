@@ -1,6 +1,6 @@
 # Advice and Guidelines for Students
 
-_Last updated: 30 October 2026_
+_Last updated: 2 November 2026_
 
 This is a companion to the [Student and Supervisor Expectations](student-and-supervisor-expectations.md). Those expectations are formal and get signed off; here we cover everything around them: looking after yourself, feeling part of the group, knowing where to turn when things get hard, and suggestions for the everyday habits that make research sustainable.
 
@@ -74,7 +74,7 @@ Looking after yourself is the foundation; good habits build on it. Steady, well-
 
 Between meetings, get in touch however suits the occasion: Slack, email, a Zoom call, or a chat in person. If you're stuck, don't wait for the next meeting. We don't expect replies outside working hours, and if you haven't heard back, a nudge is always welcome.
 
-The group's Slack workspace is **NumericalEarth**: [join with this invitation link](https://join.slack.com/t/numericalearth/shared_invite/zt-4envhdrqs-N6aa6HxGBJ~4i5Gz99Kzzw).
+The group's Slack workspace is **NumericalEarth**; ask us to give you an invitation if you aren't already a member.
 
 ### 2.4 Giving and receiving feedback
 
