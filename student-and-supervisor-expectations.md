@@ -1,6 +1,6 @@
 # Student and Supervisor Expectations
 
-_Last updated: 31 October 2026_
+_Last updated: 2 November 2026_
 
 Here, we set out what every research student in the group can expect from their supervisors, and what we expect in return.
 
@@ -22,7 +22,7 @@ This is a living document that resides at [github.com/navidcy/group-guidelines](
 
 Supervision is a two-way commitment. Whatever your program, this is what we, as supervisors, commit to provide.
 
-- **Regular, protected meeting time.** A standing meeting at an agreed frequency, which we keep and reschedule rather than cancel. Outside meetings we aim to reply to messages within 2 working days.
+- **Regular, protected meeting time.** A standing meeting at an agreed frequency in accordance with your course program (see [2.2 Masters/Honours students](#22-mastershonours-students) or [2.3 PhD students](#23-phd-students)). We keep the meeting and reschedule it rather than cancel. Outside meetings we aim to reply to messages within 2 working days.
 - **A well-scoped project.** A project designed to be achievable in the time your program allows, with the background reading, data and starting code you need to begin.
 - **Clear, agreed goals.** Deliverables and deadlines set together at the start of each semester (Masters/Honours) or each year (PhD), along with a high-level workplan for achieving them.
 - **Timely, constructive feedback.** Comments on drafts and figures within a turnaround we agree on when you send them. Feedback will be specific and aimed at the work, never the person. Early on, we'll agree on how you prefer to receive it (see section 2.4 of [Advice and Guidelines for Students](student-advice-guidelines.md#24-giving-and-receiving-feedback)).
@@ -54,15 +54,17 @@ These apply to everyone in the group, whatever their program.
 
 We expect the time and effort you put into the project to match your other subjects of the same credit weighting, including meeting deadlines. Plan regular hours for it each week, the way you would for lectures and assignments.
 
-If you are struggling with the workload, raise it with us **before** the [census date](https://students.unimelb.edu.au/course-admin/census-dates): that is the point where options are still open. The University's [special consideration policy](https://students.unimelb.edu.au/course-admin/assessment-adjustments/eligibility-and-supporting-documentation) covers the kinds of circumstances that would apply.
+If you are struggling with the workload, tell us as early as possible. In the first part of a project, withdrawing before the [census date](https://students.unimelb.edu.au/course-admin/census-dates) leaves no fee or grade; after that, and in any continuing part, withdrawing means restarting the whole project. If circumstances outside your control are the cause, [special consideration](https://students.unimelb.edu.au/course-admin/assessment-adjustments/eligibility-and-supporting-documentation) may let you repeat only the affected part, or get an extension in the final part. The Faculty's [research projects page](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects) sets out the rules.
 
 #### 2.2.2 Each semester follows the same rhythm
 
-1. **Shortly before the census date:** at least one agreed deliverable falls due, followed by a meeting held regardless of how things are going. That way, if anything isn't working, both you and we pick it up early, while all the options are still open.
+1. **Around the middle of the semester or study period (e.g., end of week 6):** at least one agreed deliverable falls due, followed by a meeting held regardless of how things are going. That way, if anything isn't working, both you and we pick it up while there's still time in the semester to deal with it.
 2. **Before the end of semester:** at least one further deliverable falls due.
 3. **End of semester:** the progress review, if your program has one.
 
 If an agreed deadline needs to move, flag it early. Anything covered by special consideration is fine.
+
+We meet weekly during semester unless we agree otherwise; for semester breaks, see 2.2.5.
 
 #### 2.2.3 End-of-semester progress review
 
@@ -79,7 +81,7 @@ We agree on a writing timeline at the start of your final semester, with a full 
 
 #### 2.2.5 Semester breaks for various programs
 
-- **[Master of Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-science-earth-sciences/):** Work continues between semesters; let us know in advance when you're taking recreational leave. See the Faculty's [Master of Science research projects](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects) page.
+- **[Master of Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-science-earth-sciences/):** Work continues between semesters, at a pace and meeting schedule we agree before the break; let us know in advance when you're taking recreational leave. See the Faculty's [Master of Science research projects](https://science.unimelb.edu.au/students/course-guide-graduate-coursework-degrees/master-of-science-research-projects) page.
 - **[Master of Climate Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-climate-science/):** There is no expectation that you work on the project during semester breaks.
 - **[Honours](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/):** Honours runs on its own calendar, so most breaks within it are project time; let us know in advance when you're taking leave. See the Handbook's [Honours course structure](https://handbook.unimelb.edu.au/2026/courses/bh-sci/course-structure) and your program's entry.
 
@@ -91,6 +93,7 @@ For everything about your candidature, including milestones, leave and support, 
 
 #### 2.3.1 Time and leave
 
+- Meeting frequency is agreed at the start of your candidature and reviewed at each milestone.
 - Full-time candidature is equivalent to a full-time job. Keep regular, sustainable hours; we **don't expect and *strongly* discourage** evenings and weekends.
 - **You *must* take your annual leave.** Rest is part of doing good research. Let us know your dates in advance so we can plan around them; see [Taking leave](https://gradresearch.unimelb.edu.au/being-a-candidate/taking-leave) for your entitlements.
 
@@ -98,12 +101,13 @@ For everything about your candidature, including milestones, leave and support, 
 
 Your progress is reviewed by your advisory committee at pre-confirmation (around six months in), at confirmation (around the end of your first year), and at annual progress reviews after that. All review dates are set against your thesis due date. The [Graduate Research Hub](https://gradresearch.unimelb.edu.au) has the current requirements.
 
-- We agree what each milestone report will contain at least three months before it is due.
+- We agree what each milestone report will contain at least four weeks before it is due.
 - Send us a full draft of each milestone report at least two weeks before it goes to the committee.
 - Your committee includes an independent chair. You can speak to them confidentially about your supervision at any time.
 
 #### 2.3.3 Publishing and authorship
 
+- As a guide, your thesis should contain three publications or publication-like chapters.
 - We aim for the main results of your thesis to appear as first-author papers in peer-reviewed journals during your candidature.
 - You lead the writing, submission and response to reviewers on your first-author papers; we support each step. The first paper is always harder than the following ones; we know that and we'll help out more!
 - We discuss authorship and author order at the start of every paper, following the [Australian Code for the Responsible Conduct of Research](https://nhmrc.gov.au/research-policy/research-integrity/2018-australian-code-responsible-conduct-research).
