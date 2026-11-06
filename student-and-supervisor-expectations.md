@@ -1,8 +1,8 @@
 # Student and Supervisor Expectations
 
-_Last updated: 2 November 2026_
+_Last updated: 7 November 2026_
 
-Here, we set out what every research student in the group can expect from their supervisors, and what we expect in return.
+Here, we set out what every research student in the group can expect from their supervisors, and what we expect in return. Most friction in a research group comes from expectations nobody has said out loud; as the saying goes, clear is kind. So we write ours down.
 
 A core set of expectations applies to all students (Masters, Honours and PhD), with program-specific sections below. We go through them together at the start of every project. They are a shared starting point, not a contract: part-time study, co-supervision, leave and other circumstances are agreed individually, and if something doesn't fit your situation, tell us and we'll adjust it.
 
@@ -42,7 +42,7 @@ These apply to everyone in the group, whatever their program.
 - **Bring something concrete to every meeting.** A paragraph, a figure or a rough result. It doesn't need to be polished! Questions are very welcome, but questions alone don't show us what you've understood or produced. We build up to this: in the first semester of a Masters or Honours project, or the first six months of a PhD, meetings are often about reading, questions and getting set up. After that, we expect some concrete work at every meeting.
 - **Keep several threads going.** Work on, e.g., reading, writing, figures and code in parallel rather than one after another, so a blocked task never stops all progress. Like above, this also comes with time: early on, one focused thread is fine. After the first semester of a Masters or Honours project, or six months into a PhD, we expect at least a couple things to run in parallel.
 - **Communicate early.** If a deadline is going to slip, or you're stuck, unwell or overloaded, tell us as soon as you know. The earlier we know, the more options are still open.
-- **Act with integrity.** Follow the [University's academic integrity rules](https://academicintegrity.unimelb.edu.au/), including its guidance on using generative AI tools, and acknowledge others' code, data and ideas.
+- **Act with integrity.** Follow the [University's academic integrity rules](https://academicintegrity.unimelb.edu.au/), including its guidance on using generative AI tools, and acknowledge others' code, data and ideas. If you have concerns about research misconduct and don't feel comfortable raising them with us, you can seek confidential advice through the University's [research concerns](https://research.unimelb.edu.au/strengths/responsible-research/ethical-research/research-concerns) process.
 - **Be part of the group.** Attend group meetings, present your work when it's your turn, and help others where you can. Where it suits your project, also present at national and international conferences or workshops; we'll point you to relevant ones and help find funding.
 - **Keep your work reproducible.** Your code and data should be in a state that can be published, so that the results in your thesis, report or papers can be regenerated. Code used for a paper's simulations or analysis is released in a public repository and, wherever possible, so is the data.
 
@@ -110,7 +110,7 @@ Your progress is reviewed by your advisory committee at pre-confirmation (around
 - As a guide, your thesis should contain three publications or publication-like chapters.
 - We aim for the main results of your thesis to appear as first-author papers in peer-reviewed journals during your candidature.
 - You lead the writing, submission and response to reviewers on your first-author papers; we support each step. The first paper is always harder than the following ones; we know that and we'll help out more!
-- We discuss authorship and author order at the start of every paper, following the [Australian Code for the Responsible Conduct of Research](https://nhmrc.gov.au/research-policy/research-integrity/2018-australian-code-responsible-conduct-research).
+- We discuss authorship and author order at the start of every paper, following the [Australian Code for the Responsible Conduct of Research](https://nhmrc.gov.au/research-policy/research-integrity/2018-australian-code-responsible-conduct-research). Authorship requires a significant intellectual contribution to the particular work the paper revolves around; general supervision, routine help, securing funding or holding a senior position do not qualify on their own.
 
 #### 2.3.4 Growing as a researcher
 

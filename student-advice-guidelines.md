@@ -1,6 +1,6 @@
 # Advice and Guidelines for Students
 
-_Last updated: 2 November 2026_
+_Last updated: 7 November 2026_
 
 This is a companion to the [Student and Supervisor Expectations](student-and-supervisor-expectations.md). Those expectations are formal and get signed off; here we cover everything around them: looking after yourself, feeling part of the group, knowing where to turn when things get hard, and suggestions for the everyday habits that make research sustainable.
 
@@ -28,7 +28,7 @@ Your wellbeing comes first. A research degree is demanding, and doing it well de
 
 A pervasive problem in academia is tying one's self-identity and purpose to work and to "being an academic". Given the narrowing scope of opportunities in the field and ever-increasing demands on academic work, this is a recipe for poor mental health. One study of PhD students found that about one in three were at risk of a common mental health issue, and job demands, balancing work and family, and career prospects outside academia were among the factors linked to it ([Levecque et al., 2017](https://doi.org/10.1016/j.respol.2017.02.008)). As a result, we encourage open discussion of your life outside academia and your opportunities beyond it. We also encourage you to make non-academic friends; in our experience, that helps put work hurdles in perspective.
 
-Rest is part of the work. We don't expect you to work evenings or weekends, and messages from us outside working hours never need a reply then. Take your annual leave, switch off properly when you do, and don't feel you need to justify time away. Steady weeks get more done than long nights.
+Rest is part of the work. We don't expect you to work evenings or weekends, and messages from us outside working hours never need a reply then. Take your annual leave, switch off properly when you do, and don't feel you need to justify time away. When you're sick, don't work, from home or otherwise; just let us know. Steady weeks get more done than long nights.
 
 ### 1.2 You're not alone
 
