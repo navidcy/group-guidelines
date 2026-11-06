@@ -1,6 +1,6 @@
 # Student and Supervisor Expectations
 
-_Last updated: 2 November 2026_
+_Last updated: 7 November 2026_
 
 Here, we set out what every research student in the group can expect from their supervisors, and what we expect in return. Most friction in a research group comes from expectations nobody has said out loud; as the saying goes, clear is kind. So we write ours down.
 
