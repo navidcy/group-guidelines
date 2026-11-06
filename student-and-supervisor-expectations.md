@@ -110,7 +110,7 @@ Your progress is reviewed by your advisory committee at pre-confirmation (around
 - As a guide, your thesis should contain three publications or publication-like chapters.
 - We aim for the main results of your thesis to appear as first-author papers in peer-reviewed journals during your candidature.
 - You lead the writing, submission and response to reviewers on your first-author papers; we support each step. The first paper is always harder than the following ones; we know that and we'll help out more!
-- We discuss authorship and author order at the start of every paper, following the [Australian Code for the Responsible Conduct of Research](https://nhmrc.gov.au/research-policy/research-integrity/2018-australian-code-responsible-conduct-research). Authorship requires a significant intellectual contribution to the particular work the paper revolves on; general supervision, routine help, securing funding or holding a senior position do not qualify on their own.
+- We discuss authorship and author order at the start of every paper, following the [Australian Code for the Responsible Conduct of Research](https://nhmrc.gov.au/research-policy/research-integrity/2018-australian-code-responsible-conduct-research). Authorship requires a significant intellectual contribution to the particular work the paper revolves around; general supervision, routine help, securing funding or holding a senior position do not qualify on their own.
 
 #### 2.3.4 Growing as a researcher
 

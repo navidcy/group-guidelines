@@ -1,6 +1,6 @@
 # Advice and Guidelines for Students
 
-_Last updated: 2 November 2026_
+_Last updated: 7 November 2026_
 
 This is a companion to the [Student and Supervisor Expectations](student-and-supervisor-expectations.md). Those expectations are formal and get signed off; here we cover everything around them: looking after yourself, feeling part of the group, knowing where to turn when things get hard, and suggestions for the everyday habits that make research sustainable.
 
